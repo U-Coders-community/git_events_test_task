@@ -1,0 +1,3 @@
+export const EVENTS_ACTION_TYPES = {
+  SET_EVENTS: 'SET_EVENTS',
+};
